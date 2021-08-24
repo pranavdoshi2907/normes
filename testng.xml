@@ -8,5 +8,6 @@
       <!-- class name="com.automation.hooks.Hook"/> -->
       <class name="com.automation.runners.TestRunner"/>
     </classes>
+   <!-- Pranav -->
   </test> <!-- Test -->
 </suite> <!-- Suite -->
